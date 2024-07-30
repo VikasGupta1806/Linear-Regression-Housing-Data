@@ -24,10 +24,13 @@ The dataset used in this project is `Housing.csv`, which includes various featur
 
 ### Features
 
-- **Feature 1**
-- **Feature 2**
-- **Feature 3**
-- ...
+- **mainroad access**
+- **guestroom availability**
+- **basement availability**
+- **hotwaterheating availability**
+- **airconditioning availability**
+- **prefarea availability**
+- **furnishingstatus**
 - **Price** (Target Variable)
 
 ## Project Structure
