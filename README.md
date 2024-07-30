@@ -87,7 +87,7 @@ python src/model_evaluation.py
 
 ## Results
 
-The linear regression model achieved an accuracy of XX% on the test set. The detailed results and analysis are provided in the [Linear_Regression_House_Prediction.ipynb](notebooks/Linear_Regression_House_Prediction.ipynb) notebook.
+The linear regression model achieved an accuracy of 60% on the test set. The detailed results and analysis are provided in the [Linear_Regression_House_Prediction.ipynb](notebooks/Linear_Regression_House_Prediction.ipynb) notebook.
 
 ## Contributing
 
